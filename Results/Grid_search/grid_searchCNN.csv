@@ -1,0 +1,12 @@
+,params,F1
+blink_EEG,"[{'solver': 'adam', 'hidden_layers_sizes': (200, 50, 200), 'size_time_kernel': 30, 'n_kernels': 32, 'activation': 'relu'}]",1.0
+SineRandomPhase,"[{'solver': 'adam', 'hidden_layers_sizes': (100, 50, 100), 'size_time_kernel': 3, 'n_kernels':32, 'activation': 'relu'}]",1.0
+Sine,"[{'solver': 'adam', 'hidden_layers_sizes': (100, 50, 100), 'size_time_kernel': 3, 'n_kernels':32, 'activation': 'relu'}]",1.0
+SineRandom,"[{'solver': 'adam', 'hidden_layers_sizes': (100, 50, 100), 'size_time_kernel': 3, 'n_kernels':32, 'activation': 'relu'}]",1.0
+FingerMovements,"[{'solver': 'adam', 'hidden_layers_sizes': (60, 50, 160, 100, 110), 'size_time_kernel': 5, 'n_kernels': 240, 'activation': 'relu'}]",0.6552621126174927
+SelfRegulationSCP1,"[{'solver': 'adam', 'hidden_layers_sizes': (70, 150, 60, 120, 170), 'size_time_kernel': 15, 'n_kernels': 48, 'activation': 'relu'}]",0.883468508720398
+SelfRegulationSCP2,"[{'solver': 'adam', 'hidden_layers_sizes': (140, 100, 60, 160, 40), 'size_time_kernel': 14, 'n_kernels': 16, 'activation': 'relu'}]",0.6196296215057373
+Heartbeat,"[{'solver': 'adam', 'hidden_layers_sizes': (190, 190, 90, 180, 190), 'size_time_kernel': 8, 'n_kernels': 176, 'activation': 'relu'}]",0.7176386713981628
+GunPointMaleVersusFemale,"[{'solver': 'adam', 'hidden_layers_sizes': (160, 120, 40, 30, 190), 'size_time_kernel': 16, 'n_kernels': 144, 'activation': 'relu'}]",0.990883469581604
+SharePriceIncrease,"[{'solver': 'adam', 'hidden_layers_sizes': (180, 120, 180, 130, 140), 'size_time_kernel': 16, 'n_kernels': 256, 'activation': 'relu'}]",0.6234686374664307
+Strawberry,"[{'solver': 'adam', 'hidden_layers_sizes': (120, 200, 180, 190, 20), 'size_time_kernel': 16, 'n_kernels': 240, 'activation': 'relu'}]",0.9914533495903015

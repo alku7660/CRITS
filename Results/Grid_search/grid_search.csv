@@ -1,0 +1,18 @@
+,params,F1
+blink_EEG,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1.0
+helix_1_start,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1.0
+helix_2_start,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1.0
+helix_1_random_time,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1.0
+helix_2_random_time,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1.0
+helix_random_feat_random_time,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1.0
+helix_matching_random_amp_feat_time,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1.0
+helix_matching_random_amp_feat_time_no_phase,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1.0
+circles,"[{'solver': 'lbfgs', 'hidden_layer_sizes': (20, 50, 200, 50, 300), 'activation': 'relu'}]",0.9938796245077596
+moons,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 300, 100, 300, 200), 'activation': 'relu'}]",1.0
+Sine,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1
+SineRandom,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1
+SineRandomPhase,"[{'solver': 'adam', 'hidden_layer_sizes': (100, 200, 100, 200, 50), 'activation': 'relu'}]",1
+FingerMovements,"[{'solver': 'adam', 'hidden_layer_sizes': (300, 500, 200, 20, 50, 300), 'activation': 'relu'}]",0.6754966887417219
+Heartbeat,"[{'solver': 'lbfgs', 'hidden_layer_sizes': (200, 200, 300, 300, 50, 100), 'activation': 'relu'}]",0.42592592592592593
+SelfRegulationSCP1,"[{'solver': 'lbfgs', 'hidden_layer_sizes': (50, 200, 300, 100, 100, 20), 'activation': 'relu'}]",0.8530465949820788
+SelfRegulationSCP2,"[{'solver': 'adam', 'hidden_layer_sizes': (500, 500, 500, 100, 200, 500), 'activation': 'relu'}]",0.6074766355140186
